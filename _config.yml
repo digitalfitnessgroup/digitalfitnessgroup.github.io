@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Digital Fitness Group B.V.
+logo: /assets/img/logo_512.png
+description: We build next-generation fitness and health software.
+show_downloads: false
+google_analytics: UA-141894900-2
 theme: jekyll-theme-minimal
