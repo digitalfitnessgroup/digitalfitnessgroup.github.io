@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Welcome!
+# Hi there!
 
 We are a fit-tech company based in Amsterdam, working on next-generation ideas and software for the health and fitness market.
 
 We believe a healthy lifestyle should be accessible and achievable by all. 
 
-Our solutions put the user first, and are based on the latest insights and trends in health _and_ technology.
+Our solutions put the User first, and are based on the latest insights and trends in health _and_ technology.
 
 ---
 
