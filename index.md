@@ -14,7 +14,7 @@ Our solutions put the User first, and are based on the latest insights and trend
 
 Currently, we are investing all our energy in TRACQ, which will launch in April 2020. 
 
-Come see what we're building at [https://tracq.co](https://tracq.co) or [Facebook](https://facebook.com/tracqapp).
+Come see what we're building at [https://tracqapp.com](https://tracqapp.com) or [Facebook](https://facebook.com/tracqapp).
 
 ---
 
